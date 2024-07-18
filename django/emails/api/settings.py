@@ -51,7 +51,7 @@ DATABASES = {
         'NAME': 'emails',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
-        'HOST': 'postgres.cdwuwa0os4sh.ap-south-1.rds.amazonaws.com',  # Assuming PostgreSQL is running locally
+        'HOST': 'emails.cdwuwa0os4sh.ap-south-1.rds.amazonaws.com',  # Assuming PostgreSQL is running locally
         'PORT': '5432',        # Default PostgreSQL port
     }
 }
